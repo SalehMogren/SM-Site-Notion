@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Saleh Almogren 🫡',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Saleh Almogren',
+  name: 'Saleh Mogren',
+  domain: 'salehmogren.com',
+  author: 'Saleh Mogren',
 
   // open graph metadata (optional)
   description: 'Personal Site for Saleh ALmogren Aka Saleh Mogren',
