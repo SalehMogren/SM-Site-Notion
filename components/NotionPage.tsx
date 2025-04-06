@@ -29,7 +29,6 @@ import { Page404 } from './Page404'
 import { PageAside } from './PageAside'
 import { PageHead } from './PageHead'
 // import { GitHubShareButton } from './GitHubShareButton'
-
 import styles from './styles.module.css'
 
 // -----------------------------------------------------------------------------
